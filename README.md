@@ -1,22 +1,31 @@
-<h1 align='left'> Hello everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I am Han Yi </h1>
+<h1 align='left'> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Han Yi </h1>
 
-<h3 align='left'> ✨ About Me </h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-🎓 Currently I am pursuing my Bachelors in [Computer Engineering](https://portalfkekk.utem.edu.my/web/index.php/prospective-students/programme-offered/benr/) from [Universiti Teknikal Malaysia Melaka](https://www.utem.edu.my/).
+<h2 align='left'> ✨ About Me </h2>
+
+<h3 align='left'> 🎓 Currently I am pursuing my </h2>
+<p align="left">
+
+* Bachelors in [Computer Engineering](https://portalfkekk.utem.edu.my/web/index.php/prospective-students/programme-offered/benr/) from [Universiti Teknikal Malaysia Melaka](https://www.utem.edu.my/).
+</p>
 
 ### 💻 I’m currently working as
-
 * Google Developer Student Club Core Team Member at [GDSC UTeM](https://gdsc.community.dev/technical-university-of-malaysia-malacca/)
 
-### 🌱 I'm currently studying 
 
+### 🌱 I'm currently studying 
 * Database and Cloud Systems in Node JS with JEST Framework in [my respository](https://github.com/David00i/jest-mongoDB) 
+
 
 ### 🚀 My GitHub Stats
 
 ![Han Yi's github stats](https://github-readme-stats.vercel.app/api?username=David00i&show_icons=true&count_private=true&locale=en)
 
 ![Han Yi's github streak](https://hystreak.herokuapp.com/?user=David00i&date_format=M%20j%5B%2C%20Y%5D&border=2558FF&stroke=0C1BFF&fire=656FDD&ring=52BEDD&currStreakLabel=6B54DD&sideLabels=1321DD)
+
 
 ### ⚡ More about me:
 * 👨‍💻 All of my projects are available in [my repositiry](https://github.com/David00i?tab=repositories).
@@ -27,6 +36,7 @@
 
 * 📫 How to reach me **ooidavid10@gmail.com**
 
+<br />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ooihanyi/" target="blank"><img align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="ooi-han-yi" height="45" width="60" /></a>
