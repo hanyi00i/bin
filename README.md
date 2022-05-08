@@ -1,4 +1,4 @@
-<h1 align='left'> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Han Yi </h1>
+<h1 align='left'> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Han Yi </h1></br>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -10,19 +10,19 @@
 <p align="left">
 
 * Bachelors in [Computer Engineering](https://portalfkekk.utem.edu.my/web/index.php/prospective-students/programme-offered/benr/) from [Universiti Teknikal Malaysia Melaka](https://www.utem.edu.my/).
-</p></br>
+</p>
 
 <h3 align='left'> 💻 I’m currently working as </h2>
 <p align="left">
 
 * Google Developer Student Club Core Team Member at [GDSC UTeM](https://gdsc.community.dev/technical-university-of-malaysia-malacca/)
-</p></br>
+</p>
 
 <h3 align='left'> 🌱 I'm currently studying  </h2>
 <p align="left">
 
 * Database and Cloud Systems in Node JS with JEST Framework in [my respository](https://github.com/David00i/jest-mongoDB) 
-</p></br>
+</p>
 
 
 <h3 align='left'> 🚀 My GitHub Stats  </h2>
@@ -31,7 +31,7 @@
 ![Han Yi's github stats](https://github-readme-stats.vercel.app/api?username=David00i&show_icons=true&count_private=true&locale=en)
 
 ![Han Yi's github streak](https://hystreak.herokuapp.com/?user=David00i&date_format=M%20j%5B%2C%20Y%5D&border=2558FF&stroke=0C1BFF&fire=656FDD&ring=52BEDD&currStreakLabel=6B54DD&sideLabels=1321DD)
-</p></br>
+</p>
 
 
 <h3 align='left'> ⚡ More about me:  </h2>
@@ -44,7 +44,7 @@
 * 💬 Ask me about **Machine Learning, Data Analytics, Computer Vision**
 
 * 📫 How to reach me **ooidavid10@gmail.com**
-</p></br>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
