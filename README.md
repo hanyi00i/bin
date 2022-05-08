@@ -10,15 +10,15 @@
 
 ### 🌱 I'm currently studying 
 
-* Database and Cloud Systems in Node JS with JEST Framework in [#my respository](https://github.com/David00i/jest-mongoDB) 
+* Database and Cloud Systems in Node JS with JEST Framework in [my respository](https://github.com/David00i/jest-mongoDB) 
 
-### 🚀 Time for some stats
+### 🚀 My GitHub Stats
 
 ![Han Yi's github stats](https://github-readme-stats.vercel.app/api?username=David00i&show_icons=true&count_private=true&locale=en)
 
 ![Han Yi's github streak](https://hystreak.herokuapp.com/?user=David00i&date_format=M%20j%5B%2C%20Y%5D&border=2558FF&stroke=0C1BFF&fire=656FDD&ring=52BEDD&currStreakLabel=6B54DD&sideLabels=1321DD)
 
-### 📫 How to reach out to me:
+### ⚡ More about me:
 * 👨‍💻 All of my projects are available in [my repositiry](https://github.com/David00i?tab=repositories).
 
 * 📝 I regularly write articles on [my own website](https://ooihanyi.com/blog).
@@ -31,7 +31,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ooihanyi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ooi-han-yi" height="30" width="40" /></a>
 <a href="https://www.instagram.com/david_00i/" target="blank"><img align="center" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="ooi-han-yi" height="30" width="40" /></a>
-<a href="ooidavid10@gmail.com" target="blank"><img align="center" src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" alt="ooi-han-yi" height="30" width="40" /></a>
 </p>
 
 
