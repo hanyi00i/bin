@@ -1,7 +1,7 @@
 <h1 align='left'> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Han Yi </h1></br>
 
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC" width="100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
 </div>
 
 <h2 align='left'> ✨ About Me </h2>
@@ -51,9 +51,6 @@
 <a href="https://www.instagram.com/david_00i/" target="blank"><img align="center" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="ooi-han-yi" height="45" width="60" /></a>
 </p>
 
-<p align="center">
-<a href="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY
-</a></p>
 
 <!--
 **this** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
