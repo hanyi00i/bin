@@ -53,7 +53,7 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="480" height="360"/>
-</div>
+</div></br>
 
 ![Profile views](https://gpvc.arturio.dev/David00i)
 
