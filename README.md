@@ -55,7 +55,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="480" height="360"/>
 </div></br>
 
-![Profile views](https://gpvc.arturio.dev/David00i)
+![Profile views](https://gpvc.arturio.dev/David00i&style=for-the-badge&color=blue)
 
 <!--
 **this** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
