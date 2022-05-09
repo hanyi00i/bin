@@ -6,22 +6,22 @@
 
 <h2 align='left'> ✨ About Me </h2>
 
-<h3 align='left'> 🎓 Currently I am pursuing my </h2>
+<h3 align='left'> 🎓 Currently I'm pursuing my </h2>
 <p align="left">
 
-* Bachelors of Degree in [Computer Engineering](https://portalfkekk.utem.edu.my/web/index.php/prospective-students/programme-offered/benr/) from [Universiti Teknikal Malaysia Melaka](https://www.utem.edu.my/).
+* Bachelor's Degree in [Computer Engineering](https://portalfkekk.utem.edu.my/web/index.php/prospective-students/programme-offered/benr/) from [Universiti Teknikal Malaysia Melaka](https://www.utem.edu.my/).
 </p>
 
 <h3 align='left'> 💻 I’m currently working as </h2>
 <p align="left">
 
-* Google Developer Student Club Core Team Member at [GDSC UTeM](https://gdsc.community.dev/technical-university-of-malaysia-malacca/)
+* Google Developer Student Club Core Team Member at [GDSC UTeM](https://gdsc.community.dev/technical-university-of-malaysia-malacca/).
 </p>
 
 <h3 align='left'> 🌱 I'm currently studying  </h2>
 <p align="left">
 
-* Database and Cloud Systems in Node JS with JEST Framework in [my repository](https://github.com/David00i/jest-mongoDB) 
+* Database and Cloud Systems in Node JS with JEST Framework in [my repository](https://github.com/David00i/jest-mongoDB).
 </p>
 
 
@@ -40,9 +40,9 @@
 
 * 📝 I regularly write articles on [my own website](https://ooihanyi.com/blog).
 
-* 💬 Ask me about **Machine Learning, Data Analytics, Computer Vision**
+* 💬 Ask me about **Machine Learning, Data Analytics and Computer Vision**.
 
-* 📫 How to reach me **ooidavid10@gmail.com**, **b022010007@student.utem.edu.my**
+* 📫 How to reach me **ooidavid10@gmail.com**, **b022010007@student.utem.edu.my**.
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -54,6 +54,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="480" height="360"/>
 </div>
+
+![Profile views](https://gpvc.arturio.dev/David00i)
 
 <!--
 **this** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
