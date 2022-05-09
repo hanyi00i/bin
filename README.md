@@ -55,7 +55,10 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="480" height="360"/>
 </div></br>
 
+<p align="right">
+
 ![Profile views](https://komarev.com/ghpvc/?username=David00i&style=for-the-badge&color=blue&label=PROFILE+VIEWS+FOR+HAN+YI)
+</p>
 
 <!--
 **this** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
