@@ -13,6 +13,7 @@ bcrypt.genSalt(saltRounds, function (saltError, salt) {
       } else {
         return hash
         //console.log(hash) new branch
+        //try one more time
         //$2a$10$FEBywZh8u9M0Cec/0mWep.1kXrwKeiWDba6tdKvDfEBjyePJnDT7K
       }
     })
