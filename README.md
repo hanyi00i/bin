@@ -38,7 +38,7 @@
 
 * 👨‍💻 All of my projects are available in [my repository](https://github.com/David00i?tab=repositories).
 
-* 📝 I regularly write articles on [my own website](https://ooihanyi.wordpress.com).
+* 📝 I regularly write articles on [my wordpress website](https://ooihanyi.wordpress.com).
 
 * 💬 Ask me about **Machine Learning, Data Analytics and Computer Vision**.
 
