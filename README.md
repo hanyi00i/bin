@@ -28,7 +28,7 @@
 <h3 align='left'> 🚀 My GitHub Stats  </h2>
 <p align="left">
 
-![Han Yi's github stats](https://github-readme-stats.vercel.app/api?username=David00i&show_icons=true&count_private=true&locale=en)
+![Han Yi's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=David00i&show_icons=true&count_private=true&locale=en)
 ![Han Yi's github streak](https://hystreak.herokuapp.com/?user=David00i&date_format=M%20j%5B%2C%20Y%5D&border=2558FF&stroke=0C1BFF&fire=656FDD&ring=52BEDD&currStreakLabel=6B54DD&sideLabels=1321DD)
 </p>
 
