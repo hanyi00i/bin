@@ -59,7 +59,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=David00i&style=for-the-badge&color=blue&label=PROFILE+VIEWS+FOR+HAN+YI)
   [<img align="right" width="150" alt="han-yi" src="https://count.getloli.com/get/@:David00i?theme=rule34">]
-  [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
+  <img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">(https://www.youtube.com/watch?v=PqXPW0oBKgg)
 </div>
 
 <!--
