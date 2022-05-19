@@ -64,7 +64,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=David00i&style=for-the-badge&color=blue&label=PROFILE+VIEWS+FOR+HAN+YI)
 </div>
 
-![:davidooi](https://count.getloli.com/get/@:davidooi)
+![:David00i](https://count.getloli.com/get/@:David00i)
 
 <!--
  [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">]
