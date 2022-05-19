@@ -1,6 +1,4 @@
-<img align="right" width="150" alt="han-yi" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">
-
-<img align="right" width="150" alt="han-yi" src="https://count.getloli.com/get/@David00i?theme=rule34">
+<img align="right" width="150" alt="han-yi" src="https://count.getloli.com/get/@lowlighter?theme=rule34">
 
 <h1> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Han Yi </h1></br>
 
@@ -64,7 +62,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=David00i&style=for-the-badge&color=blue&label=PROFILE+VIEWS+FOR+HAN+YI)
 </div>
 
-![:David00i](https://count.getloli.com/get/@:David00i)
+![:lowlighter](https://count.getloli.com/get/@:lowlighter)
 
 <!--
  [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">]
