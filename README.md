@@ -1,6 +1,6 @@
-<img align="right" width="150" alt="han-yi" src="https://count.getloli.com/get/@:David00i?theme=rule34">
+<img align="right" width="150" alt="han-yi" src="https://count.getloli.com/get/@:david00i?theme=rule34">
 
-![:David00i](https://count.getloli.com/get/@:David00i)
+![:davidooi](https://count.getloli.com/get/@:davidooi)
 
 <h1> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Han Yi </h1></br>
 
