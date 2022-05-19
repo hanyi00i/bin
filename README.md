@@ -1,4 +1,4 @@
-<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">
+[<img align="right" width="150" alt="han-yi" src="https://count.getloli.com/get/@:David00i?theme=rule34">](https://count.getloli.com/get/@:David00i?theme=rule34)
 
 <h1> Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Han Yi </h1></br>
 
@@ -63,7 +63,8 @@
 </div>
 
 [<img align="right" width="150" alt="han-yi" src="https://count.getloli.com/get/@:David00i">]
-[<img align="right" width="150" alt="han-yi" src="https://count.getloli.com/get/@:David00i?theme=rule34">
+
+<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">
 
 <!--
 **this** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
