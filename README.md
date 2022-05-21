@@ -60,10 +60,9 @@
 ![Profile views](https://komarev.com/ghpvc/?username=David00i&style=for-the-badge&color=blue&label=PROFILE+VIEWS+FOR+HAN+YI)
 </div>
 
+<!--
 ![lowlighter](https://count.getloli.com/get/@lowlighter)
 
-<!--
- [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:lowlighter?theme=rule34">]
 **this** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
