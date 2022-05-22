@@ -49,6 +49,8 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/ooihanyi/" target="blank"><img align="center" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="han-yi" height="45" width="60" /></a>
 <a href="https://www.instagram.com/david_00i/" target="blank"><img align="center" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" alt="han-yi" height="45" width="60" /></a>
+<a href="https://www.hackerrank.com/ooidavid10" target="blank"><img align="center" 
+scr="https://camo.githubusercontent.com/44325813ad49c866666b351a6f1191bd17ac1a39b6f3c2fbe32e6b3e63661923/68747470733a2f2f63646e322e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f736f6369616c2d6d656469612d323139392f36342f736f6369616c5f6d656469615f69736f6d65747269635f31342d6c696e6b6564696e2d3531322e706e67" alt="han-yi" /></a>
 </p>
 
 <div align="center">
