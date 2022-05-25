@@ -1,7 +1,7 @@
 <h1> Hi <img src="https://github.com/David00i/profile-icon/blob/master/Hi.gif" width="29px">, I'm Han Yi <img align="right" width="150" alt="han-yi" src="https://count.getloli.com/get/@lowlighter?theme=rule34"> </h1></br>
 
-<p align="center">
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&feature=youtu.be&ab_channel=RickAstley" target="blank"><img align="center" src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" alt="rickrolled" height="270" width="480" /></a>
+<p align="left">
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&feature=youtu.be&ab_channel=RickAstley" target="blank"><img align="center" src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" alt="rickrolled" height="45" width="60" /></a>
  
 </p>
 
