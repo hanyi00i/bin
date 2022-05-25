@@ -2,7 +2,7 @@
 
 </p>
 <p align="center">
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&feature=youtu.be&ab_channel=RickAstley" target="blank"><img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="480" height="270"/></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&feature=youtu.be&ab_channel=RickAstley" target="blank"><img align='center' src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" alt='rickrolled' width="480" height="270"/></a>
 </p>
 
 <h2 align='left'> ✨ About Me </h2>
