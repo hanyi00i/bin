@@ -3,7 +3,7 @@
 <p align="center">
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&feature=youtu.be&ab_channel=RickAstley"><img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif"></img></a>
  
-[<img align="center" src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" alt="rickrolled" width="480" height="270" />](https://www.youtube.com/watch?v=dQw4w9WgXcQ&feature=youtu.be&ab_channel=RickAstley)
+[<img align="center" src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" alt="rickrolled" />](https://www.youtube.com/watch?v=dQw4w9WgXcQ&feature=youtu.be&ab_channel=RickAstley)
  
 </p>
 
