@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" />
+  <img src="https://github.com/David00i/profile-icon/blob/master/bear.gif" />
 </div></br>
 
 <h2 align='left'> ✨ About Me </h2>
