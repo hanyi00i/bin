@@ -55,7 +55,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="480" height="360"/>
+  <img src="https://github.com/David00i/profile-icon/blob/master/person.gif" width="480" height="360"/>
 </div></br>
 
 <div align="right">
