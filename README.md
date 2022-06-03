@@ -9,7 +9,6 @@
 <h3 align='left'> 🎓 Currently I'm pursuing my </h2>
 <p align="left">
   
-
 * Bachelor's Degree in [Computer Engineering](https://portalfkekk.utem.edu.my/web/index.php/prospective-students/programme-offered/benr/) from [Universiti Teknikal Malaysia Melaka](https://www.utem.edu.my/).
 </p>
 
