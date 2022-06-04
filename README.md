@@ -1,5 +1,6 @@
 <h1> Hi <img src="https://github.com/David00i/profile-icon/blob/master/Hi.gif" width="29">, I'm Han Yi <img align="right" width="150" alt="han-yi" src="https://count.getloli.com/get/@lowlighter?theme=rule34"> </h1></br>
 
+
 <div align="center">
   <img src="https://github.com/David00i/profile-icon/blob/master/bear.gif" />
 </div></br>
@@ -47,7 +48,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ooihanyi/" target="blank"><img align="center" src="https://github.com/David00i/profile-icon/blob/master/Linkedin.svg" alt="han-yi" height="45" width="60" /></a>
+<a href="https://www.linkedin.com/in/ooihanyi/" target="blank"><img align="center" src="https://github.com/David00i/profile-icon/blob/master/Linkedin.svg" alt="han-yi" height="45" width="60" /></a> 
 <a href="https://www.instagram.com/david_00i/" target="blank"><img align="center" src="https://github.com/David00i/profile-icon/blob/master/Instagram.svg" alt="han-yi" height="45" width="60" /></a>
 <a href="https://www.hackerrank.com/ooidavid10/" target="blank"><img align="center" src="https://github.com/David00i/profile-icon/blob/master/HackerRank.svg" alt="han-yi" height="45" width="60" /></a>
 
