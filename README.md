@@ -24,7 +24,6 @@
 * Database and Cloud Systems in Node JS with JEST Framework in [my repository](https://github.com/David00i/jest-mongoDB).
 </p>
 
-
 <h3 align='left'> 🚀 My GitHub Stats  </h2>
 <p align="left">
 
