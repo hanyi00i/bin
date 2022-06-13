@@ -32,7 +32,6 @@
 ![Han Yi's github streak](https://hystreak.herokuapp.com/?user=David00i&date_format=M%20j%5B%2C%20Y%5D&border=2558FF&stroke=0C1BFF&fire=656FDD&ring=52BEDD&currStreakLabel=6B54DD&sideLabels=1321DD)
 </p>
 
-
 <h3 align='left'> ⚡ More about me:  </h2>
 <p align="left">
 
