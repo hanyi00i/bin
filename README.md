@@ -6,6 +6,7 @@
 
 <h2 align='left'> ✨ About Me </h2>
 
+
 <h3 align='left'> 🎓 Currently I'm pursuing my </h3>
 <p align="left">
   
