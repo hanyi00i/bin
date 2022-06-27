@@ -15,10 +15,10 @@ let hash = require('./hash.js');
 //async & await (avoid nested in then function)
 console.time('\nInsert used time')
 let result = await client.db('homework').collection('fake user').insertOne({
-    name: faker.randomName,
-    email: faker.randomEmail,
-    phone: faker.randomPhoneNumber,
-    hash_password: hash.convert
+    name: faker.name.findName(),
+    email: faker.internet.email(),
+    password: hash.hashPassword(faker.internet.password()),
+    phone: faker.phone.phoneNumber(),
 })
 console.timeEnd('\nInsert used time')
 console.log('Inserted document', result)
