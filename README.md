@@ -1,7 +1,7 @@
 <h1> Hi <img src="https://github.com/David00i/profile-icon/blob/master/Hi.gif" width="29">, I'm Han Yi <img align="right" width="150" alt="han-yi" src="https://count.getloli.com/get/@lowlighter?theme=rule34"> </h1></br>
 
 <div align="center">
-  <img src="https://github.com/David00i/profile-icon/blob/master/bear.gif" />
+  <img src="https://github.com/hanyi00i/profile-icon/blob/master/bear.gif" />
 </div></br>
 
 <h2 align='left'> ✨ About Me </h2>
@@ -34,7 +34,7 @@
 <h3 align='left'> ⚡ More about me:  </h2>
 <p align="left">
 
-* 👨‍💻 All of my projects are available in [my repository](https://github.com/David00i?tab=repositories).
+* 👨‍💻 All of my projects are available in [my repository](https://github.com/hanyi00i?tab=repositories).
 
 * 📝 I regularly write articles on [my wordpress website](https://ooihanyi.wordpress.com).
 
