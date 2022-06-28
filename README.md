@@ -29,7 +29,7 @@
 
 ![Han Yi's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hanyi00i&show_icons=true&count_private=true&locale=en)
 ![Han Yi's github streak](http://github-readme-streak-stats.herokuapp.com?user=hanyi00i&date_format=M%20j%5B%2C%20Y%5D&border=2558FF&stroke=0C1BFF&fire=656FDD&ring=52BEDD&currStreakLabel=6B54DD&sideLabels=1321DD)
-![Han Yi's github skyline](https://skyline.github.com/hanyi00i/2022)
+![Han Yi's github skyline](https://github.com/hanyi00i/profile-icon/blob/master/hanyi00i-2022.stl)
 </p>
 
 <h3 align='left'> ⚡ More about me:  </h2>
