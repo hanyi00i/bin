@@ -64,8 +64,6 @@
 </div>
 
 <!--
-![lowlighter](https://count.getloli.com/get/@lowlighter)
-
 **this** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
