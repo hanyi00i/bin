@@ -58,6 +58,9 @@
 <div align="right">
 
 ![Profile views](https://komarev.com/ghpvc/?username=David00i&style=for-the-badge&color=blue&label=PROFILE+VIEWS+FOR+HAN+YI)
+  
+![moecount](https://count.getloli.com/get/@:hanyi00i?theme=rule34)
+![Profile views](https://komarev.com/ghpvc/?username=hanyi00i&style=for-the-badge&color=blue&label=PROFILE+VIEWS+FOR+HAN+YI)
 </div>
 
 <!--
