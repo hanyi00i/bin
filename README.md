@@ -21,7 +21,7 @@
 <h3 align='left'> 🌱 I'm currently studying  </h2>
 <p align="left">
 
-* Database and Cloud Systems in Node JS with JEST Framework in [my repository](https://github.com/David00i/jest-mongoDB).
+* Machine Learning in [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course).
 </p>
 
 <h3 align='left'> 🚀 My GitHub Stats  </h2>
@@ -38,7 +38,7 @@
 
 * 📝 I regularly write articles on [my wordpress website](https://ooihanyi.wordpress.com).
 
-* 💬 Ask me about **Machine Learning, Data Analytics and Computer Vision**.
+* 💬 Ask me about **Machine Learning and Data Analytics**.
 
 * 📫 How to reach me **ooidavid10@gmail.com**, **b022010007@student.utem.edu.my**.
 </p>
@@ -51,9 +51,7 @@
 
 </p>
 
-<div align="center">
-  <img src="https://github.com/hanyi00i/bin/blob/output/github-contribution-grid-snake.svg">
-</div></br>
+![snake gif](https://github.com/hanyi00i/bin/blob/output/github-contribution-grid-snake.svg)
 
 <div align="right">
 
