@@ -52,7 +52,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/hanyi00i/profile-icon/blob/master/person.gif" width="480" height="360"/>
+  <img src="https://github.com/hanyi00i/bin/blob/output/github-contribution-grid-snake.svg"/>
 </div></br>
 
 <div align="right">
