@@ -49,9 +49,9 @@
 <a href="https://www.instagram.com/hanyi00i/" target="blank"><img align="center" src="https://github.com/hanyi00i/profile-icon/blob/master/Instagram.svg" alt="han-yi" height="45" width="60" /></a>
 <a href="https://www.hackerrank.com/hanyi00i/" target="blank"><img align="center" src="https://github.com/hanyi00i/profile-icon/blob/master/HackerRank.svg" alt="han-yi" height="45" width="60" /></a>
 
-</p>
+</p></br>
 
-<h3 align="left">Watch the snake 🐍 eating my contribution graph:</h3>
+<h3 align="left">Watch the 🐍 eating my contribution graph:</h3>
 
 ![snake gif](https://github.com/hanyi00i/bin/blob/output/github-contribution-grid-snake.svg)
 
