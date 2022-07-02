@@ -43,15 +43,15 @@
 * 📫 How to reach me **ooidavid10@gmail.com**, **b022010007@student.utem.edu.my**.
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🫂 Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ooihanyi/" target="blank"><img align="center" src="https://github.com/hanyi00i/profile-icon/blob/master/Linkedin.svg" alt="han-yi" height="45" width="60" /></a> 
 <a href="https://www.instagram.com/hanyi00i/" target="blank"><img align="center" src="https://github.com/hanyi00i/profile-icon/blob/master/Instagram.svg" alt="han-yi" height="45" width="60" /></a>
 <a href="https://www.hackerrank.com/hanyi00i/" target="blank"><img align="center" src="https://github.com/hanyi00i/profile-icon/blob/master/HackerRank.svg" alt="han-yi" height="45" width="60" /></a>
 
-</p></br>
+</p>
 
-<h3 align="left">Watch the 🐍 eating my contribution graph:</h3>
+<h2 align="left">🐍 eating my contribution graph:</h2>
 
 ![snake gif](https://github.com/hanyi00i/bin/blob/output/github-contribution-grid-snake.svg)
 
