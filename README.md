@@ -12,26 +12,26 @@
 * Bachelor's Degree in [Computer Engineering](https://portalfkekk.utem.edu.my/web/index.php/prospective-students/programme-offered/benr/) from [Universiti Teknikal Malaysia Melaka](https://www.utem.edu.my/).
 </p>
 
-<h3 align='left'> 💻 I’m currently working as </h2>
+<h3 align='left'> 💻 I’m currently working as </h3>
 <p align="left">
 
 * Google Developer Student Club Core Team Member at [GDSC UTeM](https://gdsc.community.dev/technical-university-of-malaysia-malacca/).
 </p>
 
-<h3 align='left'> 🌱 I'm currently studying  </h2>
+<h3 align='left'> 🌱 I'm currently studying  </h3>
 <p align="left">
 
 * Machine Learning in [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course).
 </p>
 
-<h3 align='left'> 🚀 My GitHub Stats  </h2>
+<h3 align='left'> 🚀 My GitHub Stats  </h3>
 <p align="left">
 
 ![Han Yi's github stats](https://github-readme-stats-eight-theta.vercel.app/api?username=hanyi00i&show_icons=true&count_private=true&locale=en)
 ![Han Yi's github streak](http://github-readme-streak-stats.herokuapp.com?user=hanyi00i&date_format=M%20j%5B%2C%20Y%5D&border=2558FF&stroke=0C1BFF&fire=656FDD&ring=52BEDD&currStreakLabel=6B54DD&sideLabels=1321DD)
 </p>
 
-<h3 align='left'> ⚡ More about me:  </h2>
+<h3 align='left'> ⚡ More about me:  </h3>
 <p align="left">
 
 * 👨‍💻 All of my projects are available in [my repository](https://github.com/hanyi00i?tab=repositories).
@@ -50,6 +50,8 @@
 <a href="https://www.hackerrank.com/hanyi00i/" target="blank"><img align="center" src="https://github.com/hanyi00i/profile-icon/blob/master/HackerRank.svg" alt="han-yi" height="45" width="60" /></a>
 
 </p>
+
+<h3 align="left">Watch the snake 🐍 eating my contribution graph:</h3>
 
 ![snake gif](https://github.com/hanyi00i/bin/blob/output/github-contribution-grid-snake.svg)
 
