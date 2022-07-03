@@ -31,7 +31,7 @@
 ![Han Yi's github streak](http://github-readme-streak-stats.herokuapp.com?user=hanyi00i&date_format=M%20j%5B%2C%20Y%5D&border=2558FF&stroke=0C1BFF&fire=656FDD&ring=52BEDD&currStreakLabel=6B54DD&sideLabels=1321DD)
 </p>
 
-<h3 align='left'> ⚡ More about me:  </h3>
+<h3 align='left'> ⚡ More about me  </h3>
 <p align="left">
 
 * 👨‍💻 All of my projects are available in [my repository](https://github.com/hanyi00i?tab=repositories).
@@ -43,11 +43,12 @@
 * 📫 How to reach me **ooidavid10@gmail.com**, **b022010007@student.utem.edu.my**.
 </p>
 
-<h3 align="left">🫂 Connect with me:</h3>
+<h3 align="left">🫂 Connect with me  </h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ooihanyi/" target="blank"><img align="center" src="https://github.com/hanyi00i/profile-icon/blob/master/Linkedin.svg" alt="han-yi" height="45" width="60" /></a> 
 <a href="https://www.instagram.com/hanyi00i/" target="blank"><img align="center" src="https://github.com/hanyi00i/profile-icon/blob/master/Instagram.svg" alt="han-yi" height="45" width="60" /></a>
 <a href="https://www.hackerrank.com/hanyi00i/" target="blank"><img align="center" src="https://github.com/hanyi00i/profile-icon/blob/master/HackerRank.svg" alt="han-yi" height="45" width="60" /></a>
+<a href="https://twitter.com/hanyi00i/" target="blank"><img align="center" src="https://github.com/hanyi00i/profile-icon/blob/master/Twitter.svg" alt="han-yi" height="45" width="60" /></a>
 
 </p></br>
 
