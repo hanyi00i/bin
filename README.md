@@ -49,6 +49,7 @@
 <a href="https://www.instagram.com/hanyi00i/" target="blank"><img align="center" src="https://github.com/hanyi00i/profile-icon/blob/master/Instagram.svg" alt="han-yi" height="45" width="60" /></a>
 <a href="https://www.hackerrank.com/hanyi00i/" target="blank"><img align="center" src="https://github.com/hanyi00i/profile-icon/blob/master/HackerRank.svg" alt="han-yi" height="45" width="60" /></a>
 <a href="https://twitter.com/hanyi00i/" target="blank"><img align="center" src="https://github.com/hanyi00i/profile-icon/blob/master/Twitter.svg" alt="han-yi" height="45" width="60" /></a>
+<a href="https://www.duolingo.com/profile/hanyi00i/" target="blank"><img align="center" src="https://github.com/hanyi00i/profile-icon/blob/master/duolingo.png" alt="han-yi" height="45" width="60" /></a>
 
 </p></br>
 
