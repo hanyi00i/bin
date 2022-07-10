@@ -15,13 +15,13 @@ inputs:
   plugin_skyline:
     description: Enable skyline plugin
     type: boolean
-    default: no
+    default: yes
 
   plugin_skyline_year:
     description: Displayed year
     type: number
     default: current-year
-    min: 2008
+    min: 2021
 
   plugin_skyline_frames:
     description: |
