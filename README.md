@@ -1,7 +1,7 @@
 <h1> Hi <img src="https://github.com/David00i/profile-icon/blob/master/Hi.gif" width="29">, I'm Han Yi <img align="right" width="150" alt="han-yi" src="https://count.getloli.com/get/@:hanyi00i?theme=rule34"> </h1></br>
 
 <div align="center">
-  <img src="https://github.com/hanyi00i/profile-icon/blob/master/bear.gif" />
+  <img src="https://github.com/hanyi00i/bin/blob/master/metrics.plugin.skyline.svg" />
 </div></br>
 
 <h2 align='left'> ✨ About Me </h2>
