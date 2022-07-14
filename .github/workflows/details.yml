@@ -1,4 +1,4 @@
-name: Compact display
+name: Details display
 on:
   # Schedule daily updates
   schedule:
