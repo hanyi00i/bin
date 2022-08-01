@@ -21,6 +21,6 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_only: >-
             forker, polyglot, developer, deployer, follower, stargazer, 
-            maintainer, explorer, member, infographile
+            maintainer, explorer, member, gister, verified, infographile, automator
           plugin_achievements_display: compact
           plugin_achievements_threshold: X
