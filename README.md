@@ -22,7 +22,7 @@
 <h3 align='left'> 🌱 I'm currently studying  </h3>
 <p align="left">
 
-* Machine Learning in [Machine Learning Crash Course](https://developers.gogle.com/machine-learning/crash-course).
+* Machine Learning in [Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course).
 </p>
 
 <h3 align='left'> 🚀 My GitHub Stats  </h3>
