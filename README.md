@@ -37,7 +37,7 @@
 
 * 👨‍💻 All of my projects are available in [my repository](https://github.com/hanyi00i?tab=repositories).
 
-* 📝 I regularly write articles on [my wordpress website](https://ooihanyi.wordpress.com).
+* 📝 I regularly write articles on [Medium](https://medium.com/@hanyi00i).
 
 * 💬 Ask me about **Machine Learning and Data Analytics**.
 
