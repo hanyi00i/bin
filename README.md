@@ -15,7 +15,7 @@
 <h3 align='left'> 💻 I’m currently working as </h3>
 <p align="left">
 
-* Google Developer Student Club Core Team Member at [GDSC UTeM](https://gdsc.community.dev/technical-university-of-malaysia-malacca/).
+* Google Developer Student Clubs Lead at [GDSC UTeM](https://gdsc.community.dev/technical-university-of-malaysia-malacca/).
 </p>
 
 
