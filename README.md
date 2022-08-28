@@ -54,8 +54,10 @@
 </p></br>
 
 <h2 align="center">watch the 🐍 eating my contribution graph</h2>
-
+<div align="center">
+  
 ![snake gif](https://github.com/hanyi00i/bin/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 <div align="right">
 
