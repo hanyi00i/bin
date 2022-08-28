@@ -8,7 +8,7 @@
 
 <h3 align='left'> 🎓 Currently I'm pursuing my </h3>
 <p align="left">
-  
+
 * Bachelor's Degree in [Computer Engineering](https://portalfkekk.utem.edu.my/web/index.php/prospective-students/programme-offered/benr/) from [Universiti Teknikal Malaysia Melaka](https://www.utem.edu.my/).
 </p>
 
@@ -17,7 +17,6 @@
 
 * Google Developer Student Clubs Lead at [GDSC UTeM](https://gdsc.community.dev/technical-university-of-malaysia-malacca/).
 </p>
-
 
 <h3 align='left'> 🌱 I'm currently studying  </h3>
 <p align="left">
@@ -52,7 +51,6 @@
 <a href="https://www.duolingo.com/profile/hanyi00i" target="blank"><img align="center" src="https://github.com/hanyi00i/profile-icon/blob/master/duolingo.svg" alt="han-yi" height="45" width="60" /></a>
 <a href="https://www.kaggle.com/ooihanyi" target="blank"><img align="center" src="https://github.com/hanyi00i/profile-icon/blob/master/kaggle.svg" alt="han-yi" height="45" width="60" /></a>
 <a href="https://twitter.com/hanyi00i" target="blank"><img align="center" src="https://github.com/hanyi00i/profile-icon/blob/master/Twitter.svg" alt="han-yi" height="45" width="60" /></a>
-
 </p></br>
 
 <h2 align="center">watch the 🐍 eating my contribution graph</h2>
