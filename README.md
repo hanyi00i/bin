@@ -38,7 +38,7 @@
 
 * 📝 I regularly write articles on [Medium](https://medium.com/@hanyi00i).
 
-* 💬 Ask me about **Machine Learning and Data Analytics**.
+* 💬 Ask me about **Artificial Intelligence and Machine Learning**.
 
 * 📫 How to reach me **ooidavid10@gmail.com**, **b022010007@student.utem.edu.my**.
 </p>
