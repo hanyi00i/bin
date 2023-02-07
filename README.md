@@ -3,7 +3,7 @@
   
 ![snake gif](https://github.com/hanyi00i/bin/blob/output/github-contribution-grid-snake.svg)
 
-[<img align="left" width="960" alt="han-yi" src="https://github.com/hanyi00i/bin/blob/master/github-metrics.svg">]
+[<img align="left" width="1500" alt="han-yi" src="https://github.com/hanyi00i/bin/blob/master/github-metrics.svg">](#)
 
 
 </div>
