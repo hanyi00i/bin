@@ -1,7 +1,7 @@
 
 <div align="center">
-  
-![snake gif](https://github.com/hanyi00i/bin/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://raw.githubusercontent.com/hanyi00i/bin/8097a2d2e20ccf0f9f3a19cea47388f977047433/github-contribution-grid-snake.svg)
 
 [<img align="left" width="1500" alt="han-yi" src="https://github.com/hanyi00i/bin/blob/master/github-metrics.svg">](#)
 
