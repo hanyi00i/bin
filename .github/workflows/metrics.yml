@@ -13,7 +13,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: hanyi00i/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
