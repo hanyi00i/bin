@@ -3,9 +3,9 @@ on:
   # Schedule daily updates
   schedule:
     - cron: "0 0 * * *"
-  # (optional) Run workflow manually
+  # Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
+  # Run workflow when pushing on master branch
   push:
     branches:
       - master
@@ -13,7 +13,7 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: hanyi00i/metrics@master
+      - uses: hanyi00i/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options

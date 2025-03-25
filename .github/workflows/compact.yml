@@ -1,11 +1,11 @@
-name: Compact display
+name: Compact achievement
 on:
   # Schedule daily updates
   schedule:
     - cron: "0 0 * * *"
-  # (optional) Run workflow manually
+  # Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
+  # Run workflow when pushing on master branch
   push:
     branches:
       - master
@@ -13,13 +13,12 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: hanyi00i/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          config_display: large
           filename: metrics.plugin.achievements.compact.svg
-          base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
-          plugin_achievements_threshold: X
+          plugin_achievements_threshold: C
+          
